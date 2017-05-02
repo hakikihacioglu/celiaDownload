@@ -1,7 +1,6 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/hakikihacioglu/celiaDownload/releases/download/win32-x64-prod-v0.0.2",
-    "install": "https://github.com/hakikihacioglu/celiaDownload/releases/download/win32-x64-prod-v0.0.2/celia_client.Setup.0.0.2.exe",
+    "update": "https://github.com/hakikihacioglu/celiaDownload/releases/win32-x64-prod-v0.0.3",
     "version": "0.0.2"
   }
 }
