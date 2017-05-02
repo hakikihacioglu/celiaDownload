@@ -1,7 +1,6 @@
 {
   "win32-x64-prod": {
-    "update": "https://s3-eu-west-1.amazonaws.com/cuisineselite/installation_files",
-    "install": "https://s3-eu-west-1.amazonaws.com/cuisineselite/installer/installer.exe",
+    "update": "https://github.com/hakikihacioglu/celiaDownload/releases/download/celia_client_v0.0.2",
     "version": "0.0.2"
   }
 }
